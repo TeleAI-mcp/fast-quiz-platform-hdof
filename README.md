@@ -1,2 +1,3 @@
-# fast-quiz-platform-hdof
-Automated issue comment bot repository
+# Fast Quiz Platform Hdof
+
+Automated issue comment bot repository.
